@@ -1,11 +1,14 @@
 [
-{"name": "TestOne",
- "index": "IndexTestOne",
+{
+ "id: 1,
+ "name": "Marisa Ortiz"
 },
-{"name":"TestTwo",
- "index": "IndexTestTwo"
+{
+ "id: 2,
+ "name": "isa Ortiz"
 },
-{"name":"TestThree",
- "index":"IndexTestThree"
+{
+ "id: 3,
+ "name": "Ma Ortiz"
 },
 ]
