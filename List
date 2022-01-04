@@ -1,4 +1,4 @@
-const list = [
+"list" = [
   {
     name: 'Independence National Park & The Liberty Bell',
     street: '143 S. 3rd Street',
